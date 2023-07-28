@@ -20,8 +20,36 @@ Mi objetivo con "Bienvenidos a Matanza" es crear un juego que ofrezca a los juga
 
 ## Cómo Apoyar el Proyecto
 
-Actualmente, estoy trabajando en el desarrollo de una demo jugable que permita a los interesados probar una muestra de lo que "Bienvenidos a Matanza" tiene para ofrecer. Si estás interesado en apoyar este proyecto, puedes seguirme en mis redes sociales para estar al tanto de las actualizaciones y eventos relacionados con el juego.
+1. **Crowdfunding en CaféCito:** Contribuye al proyecto a través de CaféCito, una plataforma de crowdfunding donde puedes realizar donaciones para respaldar el desarrollo del juego. ¡Cada aporte cuenta y te acerca a la creación de esta emocionante experiencia de juego!
+   [Apoyar en CaféCito](https://cafecito.app/pandorastudiosarg)
 
-Además, cualquier tipo de difusión y compartición del proyecto es de gran ayuda para llegar a más personas y crear una comunidad apasionada en torno a "Bienvenidos a Matanza".
+2. **Crowdfunding en Tecito:** También puedes brindar tu apoyo a través de Tecito, otra plataforma de crowdfunding que permite contribuciones para impulsar el desarrollo del proyecto. ¡Tu aporte ayudará a hacer realidad "Bienvenidos a Matanza"!
+   [Apoyar en Tecito](https://tecito.app/estebanmunoz)
 
-¡Gracias por interesarte en mi proyecto! Estoy emocionado por el camino que nos espera y espero poder compartir más detalles y avances en el futuro cercano. Si tienes alguna pregunta o sugerencia, no dudes en contactarme. ¡Bienvenidos a Matanza, donde la acción y la IA se fusionan para crear una experiencia única en el mundo de los videojuegos!
+3. **Donaciones directas:** Si prefieres realizar donaciones directas para el proyecto, puedes utilizar los siguientes enlaces de pago:
+   - [Donación de $1000](http://mpago.la/1kKyARw)
+   - [Donación de $1500](http://mpago.la/2GotyQA)
+
+## Seguir y Conectar en Redes Sociales:
+
+Además, puedes seguirme en mis redes sociales para mantenerte informado sobre las últimas novedades del proyecto, interactuar con la comunidad y participar en eventos y concursos:
+
+- **Instagram:** [Pandora Studios en Instagram](https://www.instagram.com/pandorastudiosarg/)
+- **Twitter:** [Esteban Muñoz en Twitter](https://twitter.com/esteban38046)
+- **Patreon:** [Pandora Studios en Patreon](https://www.patreon.com/PandoraStudios)
+- **YouTube:** [Canal de YouTube](https://www.youtube.com/channel/UC2-xcaybXQgZok5UoFoyCtg)
+- **ArtStation:** [Esteban Muñoz en ArtStation](https://www.artstation.com/stevefulano)
+- **Deviantart:** [Esteban Muñoz en Deviantart](https://www.deviantart.com/estebanmunoz)
+- **SoundCloud:** [Esteban Muñoz en SoundCloud](https://soundcloud.com/esteban-munio)
+- **Discord:** [Invitación a Discord](https://discord.gg/YtMG5kD)
+- **Twitch:** [Esteban en Twitch](https://www.twitch.tv/esteban22)
+- **Itch.io:** [Perfil en Itch.io](https://estebanmunoz.itch.io/)
+- **LinkedIn:** [Perfil en LinkedIn](https://www.linkedin.com/in/esteban-muñoz-a66a46164)
+- **Sketchfab:** [Perfil en Sketchfab](https://sketchfab.com/Esteban.Munoz)
+
+## Página Oficial y Sitio Web:
+
+Visita la página oficial de "Bienvenidos a Matanza" en "La Grieta" para obtener más información sobre el juego y estar al tanto de sus avances y noticias más recientes.
+[Página Oficial](https://lagrieta.com.ar/app.php)
+
+¡Gracias por tu apoyo y entusiasmo por "Bienvenidos a Matanza"! Cada contribución y seguimiento nos acerca más a hacer realidad este emocionante proyecto de videojuego independiente. ¡Esperamos verte pronto en nuestras redes y disfrutar juntos de esta aventura distópica llena de acción!
