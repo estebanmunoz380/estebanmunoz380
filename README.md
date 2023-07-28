@@ -1,4 +1,4 @@
-# Perfil de Proyecto: Videojuego Independiente "Bienvenidos a Matanza"
+# Videojuego Independiente "Bienvenidos a Matanza"
 
 ¡Hola a todos! Soy el creador y desarrollador detrás del emocionante proyecto de videojuego independiente "Bienvenidos a Matanza". Permítanme compartirles algunos detalles sobre este apasionante juego y mi visión detrás de él.
 
